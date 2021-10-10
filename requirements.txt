@@ -1,0 +1,4 @@
+adafruit-circuitpython-charlcd
+adafruit-circuitpython-scd4x
+Adafruit-Blinka
+monitor_air_quality
