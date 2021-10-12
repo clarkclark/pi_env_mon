@@ -1,4 +1,5 @@
 # merge progs for LCD plate and scd41; 2021-10-02 cewood pycharm 2021-10-03
+# massive changes from Gene; massive confusion from Git 2021-10-11
 # note LCD cursor_position is COLUMN,ROW (0-15, 0-1)
 
 # /home/pi/venv/pi_env_mon/bin/python /home/pi/pi_env_mon/pi_env_mon/__init__.py
